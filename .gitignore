@@ -18,9 +18,4 @@ env/
 
 # Project specific
 outputs/
-anime_dataset/
-anime_face_dataset/
-dataset/
-*.png
-*.jpg
 .envrc
